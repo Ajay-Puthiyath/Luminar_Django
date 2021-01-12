@@ -4,3 +4,4 @@ for num in list:
         if(num+num2==6):
             print(num,num2)
 
+#Alternate way
